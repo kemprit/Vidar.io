@@ -1,0 +1,7 @@
+node_modules/
+android/build/
+android/app/build/
+.gradle/
+*.keystore
+.env
+backend/node_modules/

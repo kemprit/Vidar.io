@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "mu.sekiritelavenir.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "mu.sekiritelavenir.app-main-7:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "mu.sekiritelavenir.app-merged_res-5:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "mu.sekiritelavenir.app-res-0:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "mu.sekiritelavenir.app-merged_res-5:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "mu.sekiritelavenir.app-res-0:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "mu.sekiritelavenir.app-merged_res-5:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "mu.sekiritelavenir.app-res-0:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "mu.sekiritelavenir.app-merged_res-5:/drawable_rn_edit_text_material.xml.flat",
+        "source": "mu.sekiritelavenir.app-main-7:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "mu.sekiritelavenir.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "mu.sekiritelavenir.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "mu.sekiritelavenir.app-merged_res-5:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "mu.sekiritelavenir.app-main-7:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "mu.sekiritelavenir.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "mu.sekiritelavenir.app-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "mu.sekiritelavenir.app-merged_res-5:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "mu.sekiritelavenir.app-main-7:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "mu.sekiritelavenir.app-merged_res-5:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "mu.sekiritelavenir.app-main-7:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "mu.sekiritelavenir.app-merged_res-5:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "mu.sekiritelavenir.app-main-7:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "mu.sekiritelavenir.app-merged_res-5:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "mu.sekiritelavenir.app-res-0:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "mu.sekiritelavenir.app-merged_res-5:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "mu.sekiritelavenir.app-res-0:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "mu.sekiritelavenir.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "mu.sekiritelavenir.app-main-7:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "mu.sekiritelavenir.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "mu.sekiritelavenir.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "mu.sekiritelavenir.app-merged_res-5:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "mu.sekiritelavenir.app-main-7:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "mu.sekiritelavenir.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "mu.sekiritelavenir.app-main-7:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "mu.sekiritelavenir.app-merged_res-5:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "mu.sekiritelavenir.app-main-7:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "mu.sekiritelavenir.app-merged_res-5:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "mu.sekiritelavenir.app-res-0:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "mu.sekiritelavenir.app-merged_res-5:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "mu.sekiritelavenir.app-main-7:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "mu.sekiritelavenir.app-merged_res-5:/xml_network_security_config.xml.flat",
+        "source": "mu.sekiritelavenir.app-main-7:/xml/network_security_config.xml"
+    }
+]
